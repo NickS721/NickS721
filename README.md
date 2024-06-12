@@ -1,5 +1,8 @@
 <h1 align=center>Nick</h1> 
 
+  
+  <br/>
+  <br/>
 <!--
 **NickS721/NickS721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

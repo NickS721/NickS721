@@ -1,4 +1,4 @@
-<img align="left" alt="Coding" src="https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif">
+[![MasterHead](https://gifdb.com/images/high/computer-system-coding-j3szfjv9fwb5at9x.gif)()]
 <h1 align=center>👋 Hi, I'm Nick</h1> 
 
 A Computer Science Student who loves 

@@ -3,10 +3,10 @@
 A Computer Science Student who loves 
 - Programming
 - Web development
-- Music
+- Music 
 
 
-<h3>My Skills: </h3>
+<h3>Tech Stack: </h3>
 
 <div class="badges">
   <br />
@@ -36,6 +36,8 @@ A Computer Science Student who loves
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
   <img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim Badge"/>
 </div>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
+
 
 <!--
 **NickS721/NickS721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

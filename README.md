@@ -1,4 +1,4 @@
-<h1 align=center>Nick</h1> 
+<h1 align=center>👋 Hi, I'm Nick</h1> 
 
 A Computer Science Student who loves 
 - Programming

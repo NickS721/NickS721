@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRsgJ7b-fvJgKPvt4hZ_iWa1qZMoqpU5unZScp2BDoFCWPPxfUbyq84IcCfw2Ph6hhuVumrArCP_CGiah-l1xE2nYLnPb5ZOT56aF60QRfAQMoi78qfVzW8izY6UzhNTC0PWJpskSbhp4/s1600/gifs-on-cli.gif)]()
+[![MasterHead](https://i.pinimg.com/originals/12/81/10/128110af9498b44d2ffdbac531ba7866.gif)]()
 <h1 align=center>👋 Hi, I'm Nick</h1> 
 
 A Computer Science Student who loves 

@@ -38,7 +38,10 @@ A Computer Science Student who loves
 </div>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>
 
-
+<h3>Connect with me: </h3>
+<a href="https://www.linkedin.com/in/nickchaap/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <!--
 **NickS721/NickS721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

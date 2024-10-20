@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/12/81/10/128110af9498b44d2ffdbac531ba7866.gif" alt="MasterHead" width=100% height="200"/>
-</p>
-
 <h1 align=center>👋 Hi, I'm Nick</h1> 
 
 A Computer Science Student who loves 
